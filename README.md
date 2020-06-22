@@ -1,3 +1,16 @@
+  ____                 __          __           _     _______        _
+ / __ \                \ \        / /          | |   |__   __|      | |
+| |  | |_ __   ___ _____\ \  /\  / /__  _ __ __| |______| | _____  _| |_ ___ _ __
+| |  | | '_ \ / _ \______\ \/  \/ / _ \| '__/ _` |______| |/ _ \ \/ / __/ _ \ '__|
+| |__| | | | |  __/       \  /\  / (_) | | | (_| |      | |  __/>  <| ||  __/ |
+ \____/|_| |_|\___|        \/  \/ \___/|_|  \__,_|      |_|\___/_/\_\\__\___|_|
+
+Author: Jeník
+Instagram: @jan_svobodaboss
+Github: BossLPczNWM
+
+Please, do not distribute without a proper credit.
+
 # One-Word-Texter
 
 This is a script that can send any big file word by word on WhatsApp. By default it's the script to Bee Movie.
