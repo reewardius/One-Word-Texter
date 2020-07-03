@@ -1,5 +1,7 @@
 # One-Word-Texter
 
+![Screenshot](https://raw.githubusercontent.com/JanSvobodaJenik/One-Word-Texter/master/Screenshots/GH.png)
+
 This is a script that can send any big file word by word on WhatsApp. By default it's the script to Bee Movie.
 
 # Compatibility
@@ -12,6 +14,8 @@ It sends post requests with cURL to Chat-API, so you need to have an account the
 You can create a Chat-API account on https://chat-api.com. Then copy your API-URL and paste it into the script.
 
 # Installation
+
+[![Tutorial video](https://i9.ytimg.com/vi/NXxOde4YerY/mqdefault.jpg?time=1593809808495&sqp=CKS2_vcF&rs=AOn4CLDolTm2u66KHRfndjiyJLyC6HdN0Q)](https://youtu.be/NXxOde4YerY)
 
 To install the script type this into the Terminal or Termux:
 
