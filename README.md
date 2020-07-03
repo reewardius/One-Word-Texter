@@ -19,7 +19,6 @@ To install the script type this into the Terminal or Termux:
     sudo apt install python3 python3-pip
     git clone https://github.com/BossLPczNWM/One-Word-Texter.git
     cd One-Word-Texter
-    pip3 install -r requirements.txt
 
 # Usage
 
