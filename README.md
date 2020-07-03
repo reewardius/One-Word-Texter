@@ -15,8 +15,8 @@ You can create a Chat-API account on https://chat-api.com. Then copy your API-UR
 
 To install the script type this into the Terminal or Termux:
 
-    apt update && apt upgrade
-    apt install python3 python3-pip
+    sudo apt update && apt upgrade
+    sudo apt install python3 python3-pip
     git clone https://github.com/BossLPczNWM/One-Word-Texter.git
     cd One-Word-Texter
     pip3 install -r requirements.txt
