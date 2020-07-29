@@ -6,7 +6,7 @@ This is a script that can send any big file word by word on WhatsApp. By default
 
 # Compatibility
 
-The script is written in Python, but currently is only compatibile with Linux devices or with Termux on android.
+The script is written in Python, but currently is only compatibile with Linux devices or with Termux on Android.
 
 # How does it work?
 
