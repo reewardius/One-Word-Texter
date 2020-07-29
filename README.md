@@ -17,12 +17,12 @@ You can create a Chat-API account on https://chat-api.com. Then copy your API-UR
 
 Video tutorial:
 
-[![Video Tutorial](https://i9.ytimg.com/vi/NXxOde4YerY/mqdefault.jpg?time=1593809808495&sqp=CKS2_vcF&rs=AOn4CLDolTm2u66KHRfndjiyJLyC6HdN0Q)](https://youtu.be/NXxOde4YerY)
+[![Video Tutorail](https://img.youtube.com/vi/YOUTUBE_NXxOde4YerY/0.jpg)](https://www.youtube.com/watch?v=NXxOde4YerY)
 
 To install the script type this into the Terminal or Termux:
 
     sudo apt update && apt upgrade
-    sudo apt install python3 python3-pip
+    sudo apt install git python3 python3-pip
     git clone https://github.com/BossLPczNWM/One-Word-Texter.git
     cd One-Word-Texter
 
