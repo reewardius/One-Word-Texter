@@ -17,7 +17,7 @@ You can create a Chat-API account on https://chat-api.com. Then copy your API-UR
 
 Video tutorial:
 
-[![Video Tutorial](https://img.youtube.com/vi/YOUTUBE_NXxOde4YerY/0.jpg)](https://www.youtube.com/watch?v=NXxOde4YerY)
+[![Video Tutorial](https://i9.ytimg.com/vi/NXxOde4YerY/mqdefault.jpg?sqp=CLyr4PkF&rs=AOn4CLDIuP9CKot2nVb0JqUYIyDxFZ3C6A)](https://www.youtube.com/watch?v=NXxOde4YerY)
 
 To install the script type this into the Terminal or Termux:
 
